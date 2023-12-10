@@ -1,3 +1,4 @@
+export const revalidate = 0;
 import Hero from "@/components/shared/Hero"
 import LatestPost from "@/components/shared/LatestPost"
 import TopPost from "@/components/shared/TopPost"
